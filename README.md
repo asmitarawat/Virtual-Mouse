@@ -129,6 +129,6 @@ Building interpretable decision systems
 
 #### Author
 
-Asmita Rawat
-B.Tech Computer Science Engineering
+Asmita Rawat |
+B.Tech Computer Science Engineering |
 Aspiring Associate Data Scientist
